@@ -1,0 +1,151 @@
+<import>
+<FormPattern public-id="PCForm:f60b1ef1-e2c1-4439-8d80-ceb961fa6a21">
+ <ClausePatternCode />
+ <Code>BHFLGTCS1095TX0422</Code>
+ <CovSysTableValueExistsOnAll>false</CovSysTableValueExistsOnAll>
+ <CoverableSysTable />
+ <CoverableType />
+ <CoverableTypeKey />
+ <CoverableTypeKeyExistsOnAll />
+ <CoverableTypeKeys />
+ <CoverableTypeList />
+ <Description>Texas Policyholder Notice</Description>
+ <Description_L10N_ARRAY />
+ <Edition>04 22</Edition>
+ <EndorsementNumbered>false</EndorsementNumbered>
+ <FormClassification />
+ <FormNumber>BHFLGTCS1095TX</FormNumber>
+ <FormPatternAdditionalInsuredTypes />
+ <FormPatternAdditionalInterestTypes />
+ <FormPatternClauseCodes />
+ <FormPatternCovTerms />
+ <FormPatternCoverableProperties />
+ <FormPatternCoveragePartTypes />
+ <FormPatternJobs>
+  <FormPatternJob public-id="7ee2d445-bf73-4a87-b133-e96f14729ea2">
+   <FormPattern public-id="PCForm:f60b1ef1-e2c1-4439-8d80-ceb961fa6a21" />
+   <JobType>Submission</JobType>
+  </FormPatternJob>
+  <FormPatternJob public-id="24bb65dc-0a62-49a9-a2ef-ada508c45dd6">
+   <FormPattern public-id="PCForm:f60b1ef1-e2c1-4439-8d80-ceb961fa6a21" />
+   <JobType>Renewal</JobType>
+  </FormPatternJob>
+  <FormPatternJob public-id="5de99758-97a5-4a06-8a04-31bd9dc8c4cd">
+   <FormPattern public-id="PCForm:f60b1ef1-e2c1-4439-8d80-ceb961fa6a21" />
+   <JobType>Rewrite</JobType>
+  </FormPatternJob>
+ </FormPatternJobs>
+ <FormPatternOU_Ext>
+  <FormPatternOU_Ext public-id="dedf0516-b4c3-4444-a03d-856144fd1eef">
+   <Availability_Ext>Available</Availability_Ext>
+   <FormPattern_Ext public-id="PCForm:f60b1ef1-e2c1-4439-8d80-ceb961fa6a21" />
+   <OperatingUnit_Ext>BHC</OperatingUnit_Ext>
+  <FormPatternOU_Ext><Availability_Ext>Available</Availability_Ext><OperatingUnit_Ext>fds</OperatingUnit_Ext></FormPatternOU_Ext><FormPatternOU_Ext><Availability_Ext>Available</Availability_Ext><OperatingUnit_Ext>fds</OperatingUnit_Ext></FormPatternOU_Ext></FormPatternOU_Ext>
+  <FormPatternOU_Ext public-id="dedf0516-s-4444-a03d-856144fd1eef">
+   <Availability_Ext>Available</Availability_Ext>
+   <FormPattern_Ext public-id="PCForm:f60b1ef1-e2c1-4439-8d80-ceb961fa6a21" />
+   <OperatingUnit_Ext />
+  </FormPatternOU_Ext>
+ </FormPatternOU_Ext>
+ <FormPatternProducts>
+  <FormPatternProduct public-id="859d7118-9b66-444e-a10d-8202a4a6bf0c">
+   <FormPattern public-id="PCForm:f60b1ef1-e2c1-4439-8d80-ceb961fa6a21" />
+   <ProductCode>BHCPackage</ProductCode>
+  </FormPatternProduct>
+ </FormPatternProducts>
+ <GenericInferenceClass>com.wrberkley.form.GenericBaseStateApplicable</GenericInferenceClass>
+ <InferenceTime>quote</InferenceTime>
+ <InternalGroupCode />
+ <InternalReissueOnChange>false</InternalReissueOnChange>
+ <InternalRemovalEndorsement />
+ <Lookups>
+  <FormPatternLookup public-id="2680a14e-8684-4d59-8b18-ed3adef8291a">
+   <Availability>Available</Availability>
+   <EndEffectiveDate />
+   <FormPattern public-id="PCForm:f60b1ef1-e2c1-4439-8d80-ceb961fa6a21" />
+   <StartEffectiveDate>2023-01-01 00:00:00.000</StartEffectiveDate>
+   <Jurisdiction />
+   <UWCompanyCode />
+  </FormPatternLookup>
+ </Lookups>
+ <PatternExistsOnAll>false</PatternExistsOnAll>
+ <PolicyLinePatternCode />
+ <Priority>-1</Priority>
+ <RefCode>BHFLGTCS1095TX_0422</RefCode>
+ <RemovalEndorsementFormNumber />
+ <SequenceType_Ext />
+ <UseInsteadOfCode />
+</FormPattern>
+<FormPattern public-id="PCForm:76ca4150-e1db-4ac6-b615-44504843e2cd">
+ <ClausePatternCode />
+ <Code>BHFLGTCS1083AR0119</Code>
+ <CovSysTableValueExistsOnAll>false</CovSysTableValueExistsOnAll>
+ <CoverableSysTable />
+ <CoverableType />
+ <CoverableTypeKey />
+ <CoverableTypeKeyExistsOnAll />
+ <CoverableTypeKeys />
+ <CoverableTypeList />
+ <Description>Arkansas Important Policyholder Notice</Description>
+ <Description_L10N_ARRAY />
+ <Edition>01 19</Edition>
+ <EndorsementNumbered>false</EndorsementNumbered>
+ <FormClassification />
+ <FormNumber>BHFLGTCS1083AR</FormNumber>
+ <FormPatternAdditionalInsuredTypes />
+ <FormPatternAdditionalInterestTypes />
+ <FormPatternClauseCodes />
+ <FormPatternCovTerms />
+ <FormPatternCoverableProperties />
+ <FormPatternCoveragePartTypes />
+ <FormPatternJobs>
+  <FormPatternJob public-id="db0c507f-7e6b-4d19-b0f1-0fd72ee36557">
+   <FormPattern public-id="PCForm:76ca4150-e1db-4ac6-b615-44504843e2cd" />
+   <JobType>Submission</JobType>
+  </FormPatternJob>
+  <FormPatternJob public-id="d3225248-8911-4214-8a86-0b661b26890a">
+   <FormPattern public-id="PCForm:76ca4150-e1db-4ac6-b615-44504843e2cd" />
+   <JobType>Renewal</JobType>
+  </FormPatternJob>
+  <FormPatternJob public-id="b80a8359-6bbf-4e4c-9b8b-e3c8871942c6">
+   <FormPattern public-id="PCForm:76ca4150-e1db-4ac6-b615-44504843e2cd" />
+   <JobType>Rewrite</JobType>
+  </FormPatternJob>
+ </FormPatternJobs>
+ <FormPatternOU_Ext>
+  <FormPatternOU_Ext public-id="1ca01e02-fb4a-4a8a-b3af-d3341404bb6a">
+   <Availability_Ext>Available</Availability_Ext>
+   <FormPattern_Ext public-id="PCForm:76ca4150-e1db-4ac6-b615-44504843e2cd" />
+   <OperatingUnit_Ext>BHC</OperatingUnit_Ext>
+  <FormPatternOU_Ext><Availability_Ext>Available</Availability_Ext><OperatingUnit_Ext>fds</OperatingUnit_Ext></FormPatternOU_Ext><FormPatternOU_Ext><Availability_Ext>Available</Availability_Ext><OperatingUnit_Ext>fds</OperatingUnit_Ext></FormPatternOU_Ext></FormPatternOU_Ext>
+ </FormPatternOU_Ext>
+ <FormPatternProducts>
+  <FormPatternProduct public-id="0c5fcd7d-21e6-46f6-b042-8628331fd8a4">
+   <FormPattern public-id="PCForm:76ca4150-e1db-4ac6-b615-44504843e2cd" />
+   <ProductCode>BHCPackage</ProductCode>
+  </FormPatternProduct>
+ </FormPatternProducts>
+ <GenericInferenceClass>com.wrberkley.form.GenericBaseStateApplicable</GenericInferenceClass>
+ <InferenceTime>quote</InferenceTime>
+ <InternalGroupCode />
+ <InternalReissueOnChange>false</InternalReissueOnChange>
+ <InternalRemovalEndorsement />
+ <Lookups>
+  <FormPatternLookup public-id="1ee8e7be-ac20-40ab-b844-f0e12543f05f">
+   <Availability>Available</Availability>
+   <EndEffectiveDate />
+   <FormPattern public-id="PCForm:76ca4150-e1db-4ac6-b615-44504843e2cd" />
+   <StartEffectiveDate>2023-01-01 00:00:00.000</StartEffectiveDate>
+   <Jurisdiction />
+   <UWCompanyCode />
+  </FormPatternLookup>
+ </Lookups>
+ <PatternExistsOnAll>false</PatternExistsOnAll>
+ <PolicyLinePatternCode />
+ <Priority>-1</Priority>
+ <RefCode>BHFLGTCS1083AR_0119</RefCode>
+ <RemovalEndorsementFormNumber />
+ <SequenceType_Ext />
+ <UseInsteadOfCode />
+</FormPattern>
+</import>

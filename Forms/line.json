@@ -1,0 +1,59 @@
+[
+
+    {
+
+    "Employment Practices Liability": "EPLine",
+    "Directors and Officers Liability": "DOLine",
+    "Errors & Omissions Liability": "EOLiabLine",
+    "Fiduciary Liability": "FIDLine",
+    "Fiduciary":"FIDLine",
+    "General Liability": "WRBGeneralLiabilityLine",
+    "GL": "WRBGeneralLiabilityLine",
+    "GL7Line": "GL7Line",
+    "Commercial Property": "CP7Line",
+    "Commercial Umberlla": "WCULine",
+    "Inland Marine": "WIMLine",
+    "IM" : "WIMLine",
+    "Commercial Auto": "CA7Line",
+    "General Terms and Conditions": "GTCLine",
+    "Excess Liability": "WXSLine",
+    "Excess": "WXSLine",
+    "WCM" : "WCMLine",
+    "EPL" : "EPLine",
+    "D&O" : "DOLine",
+    "Crime" : "CR7Line",
+    "All" : "GTCLine",
+    "CP" : "CP7Line"
+
+},
+    {
+        "Preferred Employers Insurance Company": "PreferredEmployersInsuranceCo",
+        "Midwest Employers Casualty Company": "MidwestEmployersCasualtyCo",
+        "StarNet Insurance Company": "StarNetInsuranceCo",
+        "Key Risk Insurance Company": "KeyRiskInsuranceCo",
+        "Berkley Casualty Company": "BerkleyCasualtyCo",
+        "Carolina Casualty Insurance Company": "CarolinaCasualtyInsuranceCo",
+        "Berkley National Insurance Company": "BerkleyNationalInsuranceCo",
+        "Admiral Insurance Company": "AdmiralInsuranceCompany_Ext",
+        "Acadia Insurance Company": "AcadiaInsuranceCo_Ext",
+        "Union Insurance Company": "UnionInsuranceCo_Ext",
+        "Continental Western Insurance Company": "ContinentalWesternInsuranceCo_Ext",
+        "Tri-State Insurance Company": "TriStateInsuranceCo_Ext",
+        "Berkley Specialty Insurance Company": "BerkleySpecialtyInsuranceCo_Ext"
+    },
+
+
+    {
+        "EPLine":["BHCPackage"],
+        "DOLine":["BHCPackage"],
+        "EOLine":["BHCPackage"],
+        "FIDLine":["BHCPackage"],
+        "GTCLine":["BHCPackage"],
+        "GL7Line": ["GL7GeneralLiability"],
+        "CP7Line":["CPP7CommercialPackage","CP7CommercialProperty"],
+        "WRBGeneralLiabilityLine":["WRBGeneralLiability"],
+        "WXSLine":["WRBGeneralLiability"],
+        "WCULine":["CPP7CommercialPackage"],
+        "WCMLine":["WCMWorkersComp"]
+    }
+]
